@@ -1,4 +1,4 @@
-## Olá, sou o Estevão, estudante de Engenharia da Computação 6/10
+## Olá, sou o Estevão, estudante de Engenharia da Computação 7/10
  <div>
   <a href="https://github.com/enegreeli">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=enegreeli&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
